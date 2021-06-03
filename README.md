@@ -6,9 +6,9 @@ We will use this example Unreal Engine app as the demo for the [Unreal Perf Cour
 
 ## Downloading
 
-[Click here](https://github.com/GameDev4K/UnrealPerfCourseDemo/archive/refs/heads/main.zip) to download this version.
+[Click here](https://github.com/GameDev4K/UnrealPerfCourseDemo/archive/refs/heads/profile-gpu.zip) to download this version.
 
-Alternatively, you can clone this repository & check out the `master` branch.
+Alternatively, you can clone this repository & check out the `profile-gpu` branch.
 
 ## What's Inside
 
